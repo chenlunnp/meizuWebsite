@@ -1,5 +1,5 @@
 body{
-	width: 1330px;
+	width: 1350px;
 	overflow-x:hidden ;
 	font-family: "\5FAE\8F6F\96C5\9ED1","Microsoft Yahei",Arial,Helvetica,sans-serif,"\5B8B\4F53";
 	font-size: 14px !important;
@@ -29,7 +29,7 @@ body{
 }
 #topnav li{
 	float: left;
-	margin-right: 40px;
+	margin-right: 35px;
 }
 #topnav li:hover{
 	color: #00C3F5;
@@ -139,7 +139,7 @@ body{
 
 /*轮播图*/
 #po {
-			width: 1330px;
+			width: 1350px;
 			height: 479px;
 			border:0px solid #333;
 			overflow: hidden;
@@ -149,13 +149,13 @@ body{
 			
 		}
 		#list {
-			width: 9310px; 
+			width: 9450px; 
 			height: 479px; 
 			position: absolute; 
 			z-index: 1;
 		}
 		#list img {
-			width: 1330px;
+			width: 1350px;
 			float: left;
 			height: 479px;
 		}
@@ -184,12 +184,12 @@ body{
 		.arrow {
 			cursor: pointer;
 			display: none;
-			line-height: 39px;
+			line-height: 53px;
 			text-align: center;
 			font-size: 36px;
 			font-weight: bold;
-			width: 40px;
-			height: 40px;
+			width: 33px;
+			height: 53px;
 			position: absolute;
 			z-index: 1;
 			top: 225px;
@@ -203,7 +203,7 @@ body{
 			display: block;
 		}
 		#prev {
-			left: 290px;
+			left: 300px;
 		}
 		#next {
 			right: 40px;
@@ -216,7 +216,7 @@ body{
 	height:479px;
 	background-color: white;
 	z-index: 3;
-	margin-left: 45px;
+	margin-left: 55px;
 	background: rgba(245,240,240,0.5);
 }
 
@@ -361,7 +361,7 @@ margin: 23px;
 	
 	height: 142px;
 	margin-top: 4px;
-    margin-left: 45px;
+    margin-left: 50px;
     float: left;
     margin-right: 45px;
 }
@@ -389,7 +389,7 @@ margin: 23px;
 	float: left;	
 }
 .lunnav1 {
-	width: 1285px;
+	width: 1280px;
 	height: 33px;
 	
 }
@@ -446,7 +446,7 @@ to {left:0px;}
 #heng {
 	width: 1240px;
 	height: 400px;
-	margin-left: 45px;
+	margin-left: 52px;
 	overflow: hidden;
 	position: relative;
 }
@@ -507,17 +507,17 @@ to {left:0px;}
 .zhanshi{
 	height:120px;
 	float: left;
-	width: 1330px;
+	width: 1350px;
 	background-color: #f5f5f5;
 	
 }
 .zhanshi img {
 	width: 1240px;
-	margin-left:45px;
+	margin-left:57px;
 }
 
 .zhanshi2 {
-	width: 1330px;
+	width: 1350px;
 	height: 773px;
 	float: left;
 	background-color: #f5f5f5;
@@ -527,15 +527,16 @@ to {left:0px;}
 	width: 1240px;
 	height: 30px;
 	margin-top:30px ;
-	margin-left: 45px;
+	margin-left: 52px;
 	margin-bottom: 10px;
 }
 .contentaa a {
 	font-size: 24px;
 }
 .zhanshi3{
+	width: 1350px;
 	margin-bottom: 30px;
-	margin-left: 45px;
+	margin-left: 51px;
 }
 #haha{
 	float: right;
